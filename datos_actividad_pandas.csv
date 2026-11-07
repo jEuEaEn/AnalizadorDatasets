@@ -1,0 +1,15 @@
+id_producto,categoria,ciudad_venta,precio_unitario,cantidad,descuento_aplicado,calificacion_cliente
+101,Deportes,Cali,120.0,5,0.0,2.0
+102,Juguetes,Cali,350.0,7,0.0,
+103,Hogar,Cali,15.0,7,0.0,5.0
+104,Juguetes,Cartagena,15.5,13,0.2,3.0
+105,Juguetes,Medellín,120.0,11,0.0,4.0
+106,Ropa,Barranquilla,,13,0.05,5.0
+107,Hogar,Cali,15.0,4,0.1,4.0
+108,Hogar,Bogotá,15.5,13,0.0,4.0
+109,Hogar,Cali,350.0,7,,3.0
+110,Juguetes,Bogotá,350.0,11,,1.0
+111,Deportes,Bogotá,210.0,3,0.0,5.0
+112,Hogar,Cali,15.5,6,0.05,
+113,Juguetes,Cartagena,85.0,12,0.0,4.0
+114,Ropa,Bogotá,49.99,2,0.0,3.0
